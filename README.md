@@ -7,7 +7,7 @@
 
 ---
 
-- 📉 I'm currently doing a PhD's Science degree (Astronomy & Cosmology) at Uniandes.
+- 📉 I'm currently doing a PhD Science degree (Astronomy & Cosmology) at Uniandes.
 
 - 💬 Ask me about computational physics, astronomy and cosmology. I'm passionate about this.
 
@@ -23,11 +23,11 @@
 [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor#F7BD2F)]()
 [![C++](https://img.shields.io/badge/-c++-blue?logo=c%2B%2B)]()
 
-- #### Machine Learning / Deep Learning frameworks : <br />
+- #### Machine Learning / Deep Learning frameworks: <br />
 [![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00)]()
 [![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C)]()
 
-- #### OS & IDE & Tools : <br />
+- #### OS & Tools & IDE: <br />
 [![Linux](http://img.shields.io/badge/-Linux-eee?style=flat-square&logo=linux&logoColor=D67A10)]()
 [![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-eee?style=flat-square&logo=gnu-bash&logoColor=663399)]()
 [![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)]()
