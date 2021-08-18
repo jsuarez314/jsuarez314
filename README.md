@@ -17,7 +17,7 @@
 ###  🚀 Coding 
 
 [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor#F7BD2F)]()
-[![C++](https://img.shields.io/badge/-c++-white?logo=c%2b%2b&logoColor=black)]()
+[![C++](https://img.shields.io/badge/-c++-white?logo=C%2b%2b&logoColor=black)]()
 
 - #### Machine Learning / Deep Learning frameworks: <br />
 [![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00)]()
