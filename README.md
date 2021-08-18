@@ -1,12 +1,10 @@
 ### :octocat: Hi, I'm John Suárez-Pérez 👋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/john-su%C3%A1rez-p%C3%A9rez-9a3b07168/)
-[![Website](https://img.shields.io/badge/-Website-blue?style=flat&logoColor=white)](https://jsuarez314.gitlab.io/)
+[![Website](https://img.shields.io/badge/-Website-blue?style=flat&logo=firefox&logoColor=white)](https://jsuarez314.gitlab.io/)
 <br>
 
 ### 💻 Physicist and Data Scientist
-
----
 
 - 📉 I'm currently doing a PhD Science degree (Astronomy & Cosmology) at Uniandes.
 
