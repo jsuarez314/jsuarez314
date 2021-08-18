@@ -1,6 +1,7 @@
 ### :octocat: Hi, I'm John Suárez-Pérez 👋
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhanhthi/)](https://www.linkedin.com/in/john-su%C3%A1rez-p%C3%A9rez-9a3b07168/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/john-su%C3%A1rez-p%C3%A9rez-9a3b07168/)
+[![Website](https://img.shields.io/badge/-Website-blue?style=flat&logoColor=white)](https://jsuarez314.gitlab.io/)
 <br>
 
 ### 💻 Physicist and Data Scientist
@@ -14,9 +15,6 @@
 <br>
 
 ---
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsuarez314)](https://github.com/jsuarez314/)
-
 
 ###  🚀 Coding 
 
