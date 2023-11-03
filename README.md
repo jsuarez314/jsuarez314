@@ -6,9 +6,9 @@
 
 ### 💻 Physicist and Data Scientist
 
-- 📉 I'm currently doing a PhD Science degree (Astronomy & Cosmology) at Uniandes.
+- 📉 I'm a PhD in Science-Physics (Astronomy & Cosmology) at Uniandes.
 
-- 💬 Ask me about computational physics, astronomy and cosmology. I'm passionate about this.
+- 💬 Ask me about Artificial Intelligence, Astronomy and Cosmology. I'm passionate about this.
 
 <br>
 
