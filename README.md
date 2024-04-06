@@ -15,7 +15,6 @@
 ---
 
 ###  🚀 Coding 
-
 [![Julia](http://img.shields.io/badge/-Julia-eee?style=flat&logo=julia&logoColor#F7BD2F)]()
 [![Python](http://img.shields.io/badge/-Python-eee?style=flat&logo=python&logoColor#F7BD2F)]()
 [![C++](https://img.shields.io/badge/-C++-white?style=flat&logo=c%2b%2b&logoColor=black)]()
@@ -31,7 +30,11 @@
 [![Jupyter Notebook](http://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat&logo=jupyter&logoColor=F37626)]()
 <br>
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsuarez314&hide=html&layout=compact&theme=dracula)](https://github.com/ahmedbesbes/github-readme-stats)
+
+
+<br>
 
 <p align=center>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=jsuarez314.jsuarez314" alt="Visitors">                
