@@ -7,7 +7,7 @@
 
 ### 💻 Physicist and Data Scientist
 
-- 📉 I'm a PhD in Science-Physics (Astronomy & Cosmology) at Uniandes.
+- 📉 I'm a Professor at Tecnológico de Monterrey & PhD in Science-Physics (Astronomy & Cosmology) at Uniandes.
 
 - 💬 Ask me about Artificial Intelligence, Astronomy and Cosmology. I'm passionate about this.
 
